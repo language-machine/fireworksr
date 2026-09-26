@@ -6,16 +6,16 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://thingking-machine.github.io
+url: https://language-machine.github.io
 baseurl: /fireworksr
 
-title: Thingking Machine
+title: Language Machine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
 machine:
-  name: Thingking-Machine
-  verb: Thingking
-  instructions_file: thingking.md
+  name: Language-Machine
+  verb: Language
+  instructions_file: language.md
   token: fireworks
   server: https://localhost:443
   apiUrl: https://api.fireworks.ai/inference/v1/chat/completions
