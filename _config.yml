@@ -24,7 +24,7 @@ app:
   worker_name: fireapi.js
 
 lm:
-  model: glm-4p5
+  model: glm-5p3
   max_tokens: 4096
   reasoning_effort: high
   prompt_truncate_len: 10000
